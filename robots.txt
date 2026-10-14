@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zetaa3784-ui.github.io/binance-guide-ar/sitemap.xml
